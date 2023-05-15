@@ -21,7 +21,7 @@ I am a software engineer with a passion for building **user-centric** tools that
 ## Work Experience
 |||
 |:-|-:|
-|**Dendron Inc.**|April 2021 - May 2023|
+|**Dendron Inc.**|July 2021 - May 2023|
 |Software Engineer|Seoul, South Korea (Remote)|
 
 - Led end-to-end development process, implementing and optimizing core features for seamless user experience and efficient knowledge management at scale.
@@ -53,7 +53,7 @@ I am a software engineer with a passion for building **user-centric** tools that
 |Undergraduate Research Assistant|Ontario, Canada|
 
 - Conducted controlled studies to evaluate the performance of a novel interaction technique called "Pinch-to-Zoom-Plus (PZP)" that enhances the standard pinch-to-zoom gesture.
-- Contributed to weekly lab meetings as a member of the Human-Computer Interaction lab and provided study data that resulted in a published paper at UIST 2014
+- Contributed to weekly lab meetings as a member of the Human-Computer Interaction lab and provided study data that resulted in a published paper at UIST 2014.
     - [Jeff Avery, Mark Choi, Daniel Vogel, Edward Lank. Pinch-to-Zoom-Plus: An enhanced pinch-to-zoom that reduces clutching and panning. UIST 2014](https://dl.acm.org/doi/10.1145/2642918.2647352) 
 - Collaborated with professors and researchers to assess and improve the usability of interaction techniques.
 
@@ -65,10 +65,10 @@ I am a software engineer with a passion for building **user-centric** tools that
 
 > Incompleted due to unforeseen illness
 
-- Granted National Scholarship equivalent to approx. USD 40,000 over 4 academic terms.
-- Conducted research and development in a novel color recommendation system for designers; designed and implemented controlled studies to evaluate the system's effectiveness
-- Explored design methodologies in the area of multiple-device interaction 
-- Contributed to the development of in-house data visualization methods used
+- Granted National Scholarship equivalent to approximately USD 40,000 over 4 academic terms.
+- Conducted research and development in a novel color recommendation system for designers; designed and implemented controlled studies to evaluate the system's effectiveness.
+- Explored design methodologies in the area of multiple-device interaction.
+- Contributed to the development of in-house data visualization methods used.
 
 |||
 |:-|-:|
