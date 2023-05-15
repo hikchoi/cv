@@ -1,21 +1,15 @@
 ## Skills
 
-- Programming languages
-    - Javascript, Typescript, Python, SQL
-- Front-end
-    - React, NextJS
-- Back-end
-    - Flask, NestJS, express
-- Testing
-    - Jest, pytest
-- Database
-    - Postgres, sqlite
-- DevOps
-    - Docker, Github Actions
-- Cloud
-    - AWS CDK, lambda, RDS, Aurora, EC2, ECS, S3, ECR, Systems Manager, etc.
-- Other tools
-    - VSCode extensions API, unifiedJS, datasette, prisma, dbt, OpenAPI (Swagger), OpenAI, langchain, llama-index, sentry, segment, 
+|||
+|:-|-:|
+|**Languages**|Javascript, Typescript, Python, SQL|
+|**Frontend**|React, NextJS|
+|**Backend/API Design**|Flask, FastAPI, NestJS, express, OpenAPI(Swagger)|
+|**Database**|Postgres, RDS/Aurora, sqlite, prisma|
+|**Cloud/DevOps**|Docker, AWS, AWS CDK, Terraform|
+|**AI**|OpenAI, langchain, llama-index|
+|**Others**|HCI, Research, UX design, Strong communication, Agile|
+|**Languages (spoken)**|English (bilingual), Korean (native)|
 
 ## Profressional Work
 
@@ -23,7 +17,7 @@
 
 > Location: Remote
 >
-> Duration: April 2021 - June 2021 (contract), July 2021 - May 2023
+> Duration: April 2021 - June 2021 (OSS), July 2021 - May 2023 (Full-time)
 
 With an endless passion for creating tools for thought, I embarked on my journey with Dendron first as an open-source contributor, which eventually turned into a full-time role. I took ownership of critical aspects within Dendron with a diverse range of responsibilities, orchestrating the end-to-end development process. This includes crafting an intuitive user experience and compelling presentation, architecting the backend logic, driving continuous enhancements, and providing concise documentation. As a member of a fully remote team, I leveraged my strong communication skills to play a vital role in standardizing documentation processes to improve efficiency of an async, documentation-first team.
 
@@ -46,7 +40,7 @@ With an endless passion for creating tools for thought, I embarked on my journey
 
 > Location: Seoul, South Korea
 >
-> Duration: 2018 - 2021
+> Duration: Jan 2018 - June 2021
 
 Tanker Inc. is a property tech company specializing in providing a wide range of services for financial institutions, real estate agencies, and property owners. I took responsibility in various aspects of the core backend systems that provide the services, as well as managing internal operations and supervision.
 
@@ -60,7 +54,7 @@ Tanker Inc. is a property tech company specializing in providing a wide range of
 - Managed and improved DevOps pipelines
     - Standardized infrastructure using Terraform to manage cloud resources, leading to transparent and efficient management of AWS resources
     - Minimized cost of maintaining cloud infrastructure in AWS without sacrificing scalability and resiliency by carefully orchestrating instances and employing right-sizing techniques.
-- Lead early effort of standardized internal operations
+- Led early effort of standardized internal operations
     - Documented and standardized large in-house APIs across hundreds of routes, enabling spec-first development
     - Established and emphasized a documentation-friendly working environment and contributed various operational standards and methodologies to efficiently transfer knowledge.
     - Promoted effective communication methodologies that improved communication quality.
@@ -103,8 +97,6 @@ Human Computer Interaction lab is a research lab at the University of Waterloo. 
 #### Relevant links
 - [Pinch-to-zoom-plus: an enhanced pinch-to-zoom that reduces clutching and panning](https://dl.acm.org/doi/10.1145/2642918.2647352)
 
-
-
 ## Education
 
 ### Candidate for Master of Industrial Design
@@ -117,7 +109,6 @@ Human Computer Interaction lab is a research lab at the University of Waterloo. 
 - Incompleted, leave of absence from graduate studies to treat an unforeseen illness (2015 - 2017)
 
 I2dea Lab is a research lab at KAIST, Department of Industrial Design, where the primary focus of research is innovation of design processes and developing novel interaction techniques for designers. Under supervision of Prof. Seokhyung Bae, I was involved in the research and development of a novel color recommendation system that helps designers choose harmonious color palettes in their workflow.
-
 
 #### Researches
 - Color recommendation system

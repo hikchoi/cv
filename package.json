@@ -8,7 +8,7 @@
     "build:cv:html": "pandoc ./data/cv/cover.md -f markdown -t html -s --css=./gfm.css -o ./output/cv/cover.html; pandoc ./data/cv/body.md -f markdown -t html -s --css=./gfm.css -o ./output/cv/body.html",
     "build:cv:pdf": "cp ./data/gfm.css ./output/cv/gfm.css; weasyprint ./output/cv/cover.html -s ./output/cv/gfm.css ./output/cv/cover.pdf; weasyprint ./output/cv/body.html -s ./output/cv/gfm.css ./output/cv/body.pdf",
     "build:cv:merge": "cpdf ./output/cv/cover.pdf ./output/cv/body.pdf -o ./output/cv/cv.pdf",
-    "build:cv:cleanup": "rm ./output/cv/cover.html ./output/cv/cover.pdf ./output/cv/body.html ./output/cv/body.pdf",
+    "build:cv:cleanup": "rm ./output/cv/cover.html ./output/cv/cover.pdf ./output/cv/body.html ./output/cv/body.pdf ./output/cv/gfm.css",
     "build:cv": "yarn build:cv:html; yarn build:cv:pdf; yarn build:cv:merge; yarn build:cv:cleanup",
     "open:cv": "open ./output/cv/cv.pdf",
     "build:resume:html": "pandoc ./data/resume/resume.md -f markdown -t html -s --css=./gfm.css -o ./output/resume/resume.html",
