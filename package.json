@@ -5,6 +5,16 @@
   "license": "MIT",
   "dependencies": {},
   "scripts": {
-    "build:cv:cover": "markdown-pdf -s ./cv/cover.css ./cv/cover.md -o output/cv/cover.pdf"
+    "build:cv:html": "pandoc ./data/cv/cover.md -f markdown -t html -s --css=./gfm.css -o ./output/cv/cover.html; pandoc ./data/cv/body.md -f markdown -t html -s --css=./gfm.css -o ./output/cv/body.html",
+    "build:cv:pdf": "cp ./data/gfm.css ./output/cv/gfm.css; weasyprint ./output/cv/cover.html -s ./output/cv/gfm.css ./output/cv/cover.pdf; weasyprint ./output/cv/body.html -s ./output/cv/gfm.css ./output/cv/body.pdf",
+    "build:cv:merge": "cpdf ./output/cv/cover.pdf ./output/cv/body.pdf -o ./output/cv/cv.pdf",
+    "build:cv:cleanup": "rm ./output/cv/cover.html ./output/cv/cover.pdf ./output/cv/body.html ./output/cv/body.pdf",
+    "build:cv": "yarn build:cv:html; yarn build:cv:pdf; yarn build:cv:merge; yarn build:cv:cleanup",
+    "open:cv": "open ./output/cv/cv.pdf",
+    "build:resume:html": "pandoc ./data/resume/resume.md -f markdown -t html -s --css=./gfm.css -o ./output/resume/resume.html",
+    "build:resume:pdf": "cp ./data/gfm.css ./output/resume/gfm.css; weasyprint ./output/resume/resume.html -s ./output/resume/gfm.css ./output/resume/resume.pdf",
+    "build:resume:cleanup": "rm ./output/resume/resume.html ./output/resume/gfm.css",
+    "build:resume": "yarn build:resume:html; yarn build:resume:pdf; yarn build:resume:cleanup",
+    "open:resume": "open ./output/resume/resume.pdf"
   }
 }

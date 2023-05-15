@@ -130,7 +130,7 @@ I2dea Lab is a research lab at KAIST, Department of Industrial Design, where the
 
 ### Batchelor of Computer Science, Honours
 
-University of Waterloo, CHeriton School of Computer Science
+University of Waterloo, Cheriton School of Computer Science
 
 > Location: Waterloo, Ontario
 >
@@ -163,4 +163,3 @@ Mount Allison University
 ### Language proficiency
 - Korean: Native
 - English: Bilingual
-

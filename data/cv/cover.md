@@ -16,13 +16,10 @@
 <br/><br/>
 <br/><br/>
 <br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
 
 ## Profile
 
-While the domain and area of development of my professional work varies in my professional work, my primary goal is to ultimately build tools that can empower people in that field of interest. 
+While the domain and area of development varies in my professional work, my primary goal is to ultimately build tools that can empower users, and more importantly, myself. 
 
 Therefore, I approach problems from a user-centric point of view and build what is necessary in solving that problem. At the same time I work hard to facilitate the process of building said tools, empowering myself and my team along the way. 
 
