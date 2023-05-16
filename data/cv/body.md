@@ -17,7 +17,7 @@
 
 > Location: Remote
 >
-> Duration: Jan 2021 - May 2021 (OSS), July 2021 - May 2023 (Full-time)
+> Duration: Jan 2021 - June 2021 (OSS), July 2021 - May 2023 (Full-time)
 
 With an endless passion for creating tools for thought, I embarked on my journey with Dendron first as an open-source contributor, which eventually turned into a full-time role. I took ownership of critical aspects within Dendron with a diverse range of responsibilities, orchestrating the end-to-end development process. This includes crafting an intuitive user experience and compelling presentation, architecting the backend logic, driving continuous enhancements, and providing concise documentation. As a member of a fully remote team, I leveraged my strong communication skills to play a vital role in standardizing documentation processes to improve efficiency of an async, documentation-first team.
 

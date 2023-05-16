@@ -21,7 +21,7 @@ I am a software engineer with a passion for building **user-centric** tools that
 ## Work Experience
 |||
 |:-|-:|
-|**Dendron Inc.**|June 2021 - May 2023|
+|**Dendron Inc.**|July 2021 - May 2023|
 |Software Engineer|Seoul, South Korea (Remote)|
 
 - Led end-to-end development process, implementing and optimizing core features for seamless user experience and efficient knowledge management at scale.
@@ -30,7 +30,7 @@ I am a software engineer with a passion for building **user-centric** tools that
 
 |||
 |:-|-:|
-|**Tanker Inc.**|Jan 2018 - May 2021|
+|**Tanker Inc.**|Jan 2018 - June 2021|
 |Software Engineer|Seoul, South Korea|
 
 - Developed and maintained core public/private services for providing real estate data, enabling enterprise level loan processing/analysis, as well as consumer level real estate brokerage and convenience services.
